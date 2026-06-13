@@ -25,7 +25,8 @@ Using Python, Pandas, Matplotlib, and Seaborn, the project performs exploratory 
 
 ## Data Source
 
-Statistics Canada – Labour Force Survey Employment Data
+Statistics Canada. Table 14-10-0355-02  Employment by industry, monthly, seasonally adjusted (x 1,000)
+https://doi.org/10.25318/1410035501-eng
 
 ## Note
 
