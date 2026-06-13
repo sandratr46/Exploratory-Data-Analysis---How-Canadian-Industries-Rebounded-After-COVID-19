@@ -18,7 +18,6 @@ Using Python, Pandas, Matplotlib, and Seaborn, the project performs exploratory 
 
 * Python
 * Pandas
-* NumPy
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
